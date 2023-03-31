@@ -1,0 +1,5 @@
+{ "resourceType": "Patient",
+  "name": [ {
+    "use": "nickname",
+    "text": "甄美麗" } ]
+}

@@ -1,0 +1,8 @@
+{
+    "resourceType" : "Device",
+    "identifier" : [{
+      "system" : "http://MISAC/deviceIdentifer",
+      "value" : "device-MAC-Address"
+    }],
+    "patient": {  "reference": "Patient/3086108" }
+ }
